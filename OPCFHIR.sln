@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCFHIR.Client", "OPCFHIR\OPCFHIR.Client.csproj", "{D0C4E245-627F-474C-A0D7-FF76CB849E76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCFHIR.Server", "OPCFHIR.Server\OPCFHIR.Server.csproj", "{80831B15-366C-4DB5-94F2-9EF774D085DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL7Test", "HL7Test\HL7Test.csproj", "{5D09C2AF-9C8C-4B56-81F8-78CD0D1A8014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C4E245-627F-474C-A0D7-FF76CB849E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C4E245-627F-474C-A0D7-FF76CB849E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C4E245-627F-474C-A0D7-FF76CB849E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C4E245-627F-474C-A0D7-FF76CB849E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80831B15-366C-4DB5-94F2-9EF774D085DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80831B15-366C-4DB5-94F2-9EF774D085DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80831B15-366C-4DB5-94F2-9EF774D085DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80831B15-366C-4DB5-94F2-9EF774D085DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D09C2AF-9C8C-4B56-81F8-78CD0D1A8014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D09C2AF-9C8C-4B56-81F8-78CD0D1A8014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D09C2AF-9C8C-4B56-81F8-78CD0D1A8014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D09C2AF-9C8C-4B56-81F8-78CD0D1A8014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
