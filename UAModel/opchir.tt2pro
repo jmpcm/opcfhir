@@ -1,0 +1,26 @@
+###########################
+# UaModeler Project File  #
+# Generated at 01.09.2017 #
+###########################
+
+PROJECTNAME = opchir
+
+TEMPLATESET = ($TEMPLATES)/net/v2_4/t2/net_server.tt2set
+
+MODELS += ($MODELS)/Opc.Ua.NodeSet2.ua \
+    opcfhir.ua
+
+VARIABLES+= opcfhir.ua: Namespace=opcfhir; Organization=thi; 
+
+COLORS = ($MODELS)/Opc.Ua.NodeSet2.ua: #0000ff\
+    opcfhir.ua: #008000
+
+PROJECTVARIABLES += GenerateDefaultApplication = true \
+    NetFramework = 4.5 \
+    ProjectNamespace = opcfhir \
+    ProjectOrganization = thi
+
+OUTPUTPATH = 
+
+GENERATE += opcfhir.ua
+

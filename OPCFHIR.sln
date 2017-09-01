@@ -1,11 +1,12 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCFHIR.Server", "OPCFHIR.Server\OPCFHIR.Server.csproj", "{80831B15-366C-4DB5-94F2-9EF774D085DA}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HL7Test", "HL7Test\HL7Test.csproj", "{5D09C2AF-9C8C-4B56-81F8-78CD0D1A8014}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL7Test", "HL7Test\HL7Test.csproj", "{5D09C2AF-9C8C-4B56-81F8-78CD0D1A8014}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OPCFHIR.Client", "OPCFHIR.Client\OPCFHIR.Client.csproj", "{8E369DB1-46A1-4E30-92EE-B5D3396EA6D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCFHIR.Client", "OPCFHIR.Client\OPCFHIR.Client.csproj", "{8E369DB1-46A1-4E30-92EE-B5D3396EA6D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCFHIR_Server", "UAModel\OPCFHIR_Server.csproj", "{4778B754-0AA8-4D99-85DC-B9B2D38B6112}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +14,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80831B15-366C-4DB5-94F2-9EF774D085DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80831B15-366C-4DB5-94F2-9EF774D085DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80831B15-366C-4DB5-94F2-9EF774D085DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80831B15-366C-4DB5-94F2-9EF774D085DA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5D09C2AF-9C8C-4B56-81F8-78CD0D1A8014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5D09C2AF-9C8C-4B56-81F8-78CD0D1A8014}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D09C2AF-9C8C-4B56-81F8-78CD0D1A8014}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -25,5 +22,12 @@ Global
 		{8E369DB1-46A1-4E30-92EE-B5D3396EA6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E369DB1-46A1-4E30-92EE-B5D3396EA6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E369DB1-46A1-4E30-92EE-B5D3396EA6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4778B754-0AA8-4D99-85DC-B9B2D38B6112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4778B754-0AA8-4D99-85DC-B9B2D38B6112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4778B754-0AA8-4D99-85DC-B9B2D38B6112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4778B754-0AA8-4D99-85DC-B9B2D38B6112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
