@@ -1,0 +1,10 @@
+C:\Sup\Work\OPC UA Healthcare (ETFA 2017)\UAModel\bin\Debug\thi.opcfhir.exe.config
+C:\Sup\Work\OPC UA Healthcare (ETFA 2017)\UAModel\bin\Debug\thi.opcfhir.exe
+C:\Sup\Work\OPC UA Healthcare (ETFA 2017)\UAModel\bin\Debug\thi.opcfhir.pdb
+C:\Sup\Work\OPC UA Healthcare (ETFA 2017)\UAModel\bin\Debug\UnifiedAutomation.UaBase.dll
+C:\Sup\Work\OPC UA Healthcare (ETFA 2017)\UAModel\bin\Debug\UnifiedAutomation.UaServer.dll
+C:\Sup\Work\OPC UA Healthcare (ETFA 2017)\UAModel\bin\Debug\UnifiedAutomation.UaBase.xml
+C:\Sup\Work\OPC UA Healthcare (ETFA 2017)\UAModel\bin\Debug\UnifiedAutomation.UaServer.xml
+C:\Sup\Work\OPC UA Healthcare (ETFA 2017)\UAModel\obj\Debug\OPCFHIR_Server.csprojResolveAssemblyReference.cache
+C:\Sup\Work\OPC UA Healthcare (ETFA 2017)\UAModel\obj\Debug\thi.opcfhir.exe
+C:\Sup\Work\OPC UA Healthcare (ETFA 2017)\UAModel\obj\Debug\thi.opcfhir.pdb
